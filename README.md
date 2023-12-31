@@ -1,5 +1,3 @@
-<h1>Alarm-Clock</h1>
+<h1>Python-Based Computing Project: Alarm Clock</h1>
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/mlsUqNL04xg&t=4s">
-</iframe>
+[![Alarm Clock Project](https://github.com/lwan1/Alarm-Clock/blob/main/thumbnail.png)](http://www.youtube.com/watch?v=mlsUqNL04xg&t=4s "Alarm Clock Project")
